@@ -4,6 +4,10 @@
 
 A GitHub action to create a repository dispatch event.
 
+### Requirements:
+
+* NodeJS 20+
+
 ## Usage
 
 Dispatch an event to the current repository.
